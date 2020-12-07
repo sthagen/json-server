@@ -26,15 +26,13 @@ See also:
 
 <p>&nbsp;</p>
 
-<h2 align="center">Bronze sponsors 🥉</h2>
-
-<p>&nbsp;</p>
-
 <p align="center">
-  <a href="https://www.zinggrid.com/hello/json-server?utm_source=jsonserver&utm_medium=github&utm_campaign=sponsorship" target="_blank">
-    <img src="https://i.imgur.com/3mJGTAQ.png" height="30px">
+  <a href="https://mockend.com/" target="_blank">
+    <img src="https://mockend.com/banner.svg" height="70px">
   </a>
 </p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
